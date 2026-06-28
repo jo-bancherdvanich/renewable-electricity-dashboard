@@ -13,7 +13,6 @@ Built for **ISYS6013 Business Intelligence and Analytics** at Curtin University 
 
 ---
 
-![Australia's Renewable Electricity Transition dashboard](images/dashboard-overview.png)
 
 ---
 
