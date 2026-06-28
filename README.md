@@ -1,8 +1,9 @@
-⚡ Renewable Electricity Transition Dashboard
+# ⚡ Renewable Electricity Transition Dashboard
 
 A Power BI business intelligence project analysing Australia's renewable electricity transition from 2005 to 2024, comparing Australia with China, Germany, and New Zealand, and forecasting Australia's renewable progress to 2035 using R.
 
 Built for **ISYS6013 Business Intelligence and Analytics** at Curtin University by **Waranyu Bancherdvanich**, framed as an analytical brief for a government client (DCCEEW).
+
 
 ---
 
