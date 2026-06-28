@@ -1,4 +1,4 @@
-# ⚡ Renewable Electricity Transition Dashboard
+<img width="1904" height="911" alt="image" src="https://github.com/user-attachments/assets/9e9ecc14-427f-4cd0-85ef-853946953c54" /># ⚡ Renewable Electricity Transition Dashboard
 
 A Power BI business intelligence project analysing Australia's renewable electricity transition from 2005 to 2024, comparing Australia with China, Germany, and New Zealand, and forecasting Australia's renewable progress to 2035 using R.
 
@@ -13,10 +13,7 @@ Built for **ISYS6013 Business Intelligence and Analytics** at Curtin University 
 
 ---
 
-<!-- 📸 Add a dashboard screenshot here once you have one.
-     Upload your image to the images/ folder, then replace the line below:
-![Dashboard overview](images/dashboard-overview.png)
--->
+![Australia's Renewable Electricity Transition dashboard](images/dashboard-overview.png)
 
 ---
 
