@@ -2,8 +2,7 @@
 
 A Power BI business intelligence project analysing Australia's renewable electricity transition from 2005 to 2024, comparing Australia with China, Germany, and New Zealand, and forecasting Australia's renewable progress to 2035 using R.
 
-Built for **ISYS6013 Business Intelligence and Analytics** at Curtin University by **Waranyu Bancherdvanich**, framed as an analytical brief for a government client (DCCEEW).
-
+Produced as an analytical brief for a government client (DCCEEW), originally for ISYS6013 Business Intelligence and Analytics at Curtin University.
 
 ---
 
@@ -13,7 +12,10 @@ Built for **ISYS6013 Business Intelligence and Analytics** at Curtin University 
 ![Data Modelling](https://img.shields.io/badge/Model-Galaxy_Schema-orange)
 
 ---
+
 ![Australia's Renewable Electricity Transition dashboard](images/dashboard-overview.png)
+
+📄 **[Read the full analytical report (PDF)](report/renewable-electricity-report.pdf)** — full findings, methodology, ETL documentation, and additional visualisations.
 
 ---
 
@@ -71,9 +73,11 @@ The dashboard answers four sub-questions:
 ## 📁 Repository Contents
 
 - `renewable-electricity-dashboard.pbix` — the Power BI file
+- `report/renewable-electricity-report.pdf` — the full analytical report
 - `docs/dax-measures.md` — all DAX measures with comments
 - `docs/r-forecast-code.R` — the R forecasting script
 - `docs/data-decisions-log.md` — full ETL and analytical decisions log
+- `data/` — the raw national datasets and cleaned model data
 - `images/` — dashboard screenshots
 
 ---
