@@ -15,7 +15,9 @@ Produced as an analytical brief for a government client (DCCEEW), originally for
 
 ![Australia's Renewable Electricity Transition dashboard](images/dashboard-overview.png)
 
-📄 **[Read the full analytical report (PDF)](report/renewable-electricity-report.pdf)** — full findings, methodology, ETL documentation, and additional visualisations.
+📖 **[Read the full report here on GitHub](docs/full-report.md)** — no download needed. Full findings, methodology, ETL documentation, and the data model.
+
+📄 *Also available as a [PDF](report/renewable-electricity-report.pdf), which includes all Power BI figures at full size.*
 
 ---
 
@@ -73,12 +75,13 @@ The dashboard answers four sub-questions:
 ## 📁 Repository Contents
 
 - `renewable-electricity-dashboard.pbix` — the Power BI file
-- `report/renewable-electricity-report.pdf` — the full analytical report
+- `docs/full-report.md` — the full analytical report, readable on GitHub
+- `report/renewable-electricity-report.pdf` — the analytical report as a PDF (with all figures)
 - `docs/dax-measures.md` — all DAX measures with comments
 - `docs/r-forecast-code.R` — the R forecasting script
 - `docs/data-decisions-log.md` — full ETL and analytical decisions log
 - `data/` — the raw national datasets and cleaned model data
-- `images/` — dashboard screenshots
+- `images/` — the dashboard screenshot
 
 ---
 
@@ -92,4 +95,4 @@ The dashboard answers four sub-questions:
 
 ## 📫 Author
 
-**Waranyu (JO) Bancherdvanich** — [LinkedIn](https://www.linkedin.com/in/waranyu-ban) · [GitHub](https://github.com/jo-bancherdvanich)
+**Waranyu (JO) Bancherdvanich** — [Portfolio](https://jo-bancherdvanich.github.io/waranyu-CV/) · [LinkedIn](https://www.linkedin.com/in/waranyu-ban) · [GitHub](https://github.com/jo-bancherdvanich)

@@ -178,7 +178,9 @@ ggplot() +
 
     plot.margin = margin(8, 18, 8, 8)
   )
-E2 - Renewable Share Forecast (%)
+# =============================================================
+# E2 - Renewable Share Forecast (%)
+# =============================================================
 # Power BI creates the dataset automatically from the fields added to the R visual
 # Required fields: Year, Country, Renewable Share %
 
