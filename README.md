@@ -4,6 +4,10 @@ A Power BI business intelligence project analysing Australia's renewable electri
 
 Written as an analytical brief for a government audience (DCCEEW), at Curtin University, Perth.
 
+> ### 🌐 [Explore the interactive case study →](https://waranyu-cv.vercel.app/renewable.html)
+>
+> Part of my portfolio at **[waranyu-cv.vercel.app](https://waranyu-cv.vercel.app)**. The walkthrough there has hover-able charts and the forecast built up step by step.
+
 ---
 
 ![Power BI](https://img.shields.io/badge/Built_with-Power_BI-F2C811?logo=powerbi&logoColor=black)
@@ -93,6 +97,17 @@ The dashboard answers four sub-questions:
 
 ---
 
+## 🔗 More of my work
+
+| Project | Case study | Repository |
+|---|---|---|
+| ⚡ Australia's renewable electricity transition | [View →](https://waranyu-cv.vercel.app/renewable.html) | [Repo](https://github.com/jo-bancherdvanich/renewable-electricity-dashboard) |
+| 🛒 FreshMart data warehouse & dashboard | [View →](https://waranyu-cv.vercel.app/freshmart.html) | [Repo](https://github.com/jo-bancherdvanich/freshmart-data-warehouse) |
+| ⚽ Football club database | [View →](https://waranyu-cv.vercel.app/football-database.html) | [Repo](https://github.com/jo-bancherdvanich/soccer-competition-database) |
+| 🌦️ WeatherWise | [View →](https://waranyu-cv.vercel.app/weatherwise.html) | [Repo](https://github.com/jo-bancherdvanich/Weatherwise_Waranyu.B) |
+
+---
+
 ## 📫 Author
 
-**Waranyu (JO) Bancherdvanich** — [Portfolio](https://jo-bancherdvanich.github.io/waranyu-CV/) · [LinkedIn](https://www.linkedin.com/in/waranyu-ban) · [GitHub](https://github.com/jo-bancherdvanich)
+**Waranyu (JO) Bancherdvanich** — [Portfolio](https://waranyu-cv.vercel.app) · [LinkedIn](https://www.linkedin.com/in/waranyu-ban) · [GitHub](https://github.com/jo-bancherdvanich)
