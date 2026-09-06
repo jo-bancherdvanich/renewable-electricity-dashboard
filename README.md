@@ -2,7 +2,7 @@
 
 A Power BI business intelligence project analysing Australia's renewable electricity transition from 2005 to 2024, comparing Australia with China, Germany, and New Zealand, and forecasting Australia's renewable progress to 2035 using R.
 
-Produced as an analytical brief for a government client (DCCEEW), originally for ISYS6013 Business Intelligence and Analytics at Curtin University.
+Written as an analytical brief for a government audience (DCCEEW), at Curtin University, Perth.
 
 ---
 

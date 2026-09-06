@@ -1,7 +1,7 @@
 # Australia's Renewable Electricity Transition, 2005–2024
 
 **Analytical report for the Department of Climate Change, Energy, the Environment and Water (DCCEEW)**
-Waranyu Bancherdvanich · ISYS6013 Business Intelligence and Analytics, Curtin University
+Waranyu Bancherdvanich · Curtin University, Perth
 
 > Read this version on GitHub, or download the
 > [PDF](../report/renewable-electricity-report.pdf) for the full-size Power BI figures.
