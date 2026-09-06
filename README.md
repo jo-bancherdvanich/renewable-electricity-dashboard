@@ -4,9 +4,7 @@ A Power BI business intelligence project analysing Australia's renewable electri
 
 Written as an analytical brief for a government audience (DCCEEW), at Curtin University, Perth.
 
-> ### 🌐 [Explore the interactive case study →](https://waranyu-cv.vercel.app/renewable.html)
->
-> Part of my portfolio at **[waranyu-cv.vercel.app](https://waranyu-cv.vercel.app)**. The walkthrough there has hover-able charts and the forecast built up step by step.
+> 🌐 **[Explore the interactive case study →](https://waranyu-cv.vercel.app/renewable.html)**
 
 ---
 
@@ -19,9 +17,7 @@ Written as an analytical brief for a government audience (DCCEEW), at Curtin Uni
 
 ![Australia's Renewable Electricity Transition dashboard](images/dashboard-overview.png)
 
-📖 **[Read the full report here on GitHub](docs/full-report.md)** — no download needed. Full findings, methodology, ETL documentation, and the data model.
-
-📄 *Also available as a [PDF](report/renewable-electricity-report.pdf), which includes all Power BI figures at full size.*
+📖 **[Read the full report](docs/full-report.md)** · [PDF version](report/renewable-electricity-report.pdf) with all Power BI figures at full size
 
 ---
 
@@ -101,7 +97,6 @@ The dashboard answers four sub-questions:
 
 | Project | Case study | Repository |
 |---|---|---|
-| ⚡ Australia's renewable electricity transition | [View →](https://waranyu-cv.vercel.app/renewable.html) | [Repo](https://github.com/jo-bancherdvanich/renewable-electricity-dashboard) |
 | 🛒 FreshMart data warehouse & dashboard | [View →](https://waranyu-cv.vercel.app/freshmart.html) | [Repo](https://github.com/jo-bancherdvanich/freshmart-data-warehouse) |
 | ⚽ Football club database | [View →](https://waranyu-cv.vercel.app/football-database.html) | [Repo](https://github.com/jo-bancherdvanich/soccer-competition-database) |
 | 🌦️ WeatherWise | [View →](https://waranyu-cv.vercel.app/weatherwise.html) | [Repo](https://github.com/jo-bancherdvanich/Weatherwise_Waranyu.B) |
