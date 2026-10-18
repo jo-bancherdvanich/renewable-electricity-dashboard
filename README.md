@@ -35,7 +35,7 @@ The dashboard answers four sub-questions:
 
 ## 📊 Key Findings
 
-- Australia's renewable share rose from about **9% in 2005 to 35% in 2024**, but a linear forecast reaches only about **44.6% by 2035**, well short of the 82% goal. Australia is moving in the right direction but not fast enough.
+- Australia's renewable share rose from about **9% in 2005 to 35% in 2024**, but a linear forecast reaches only about **37.8% by 2030**, less than half the 82% target for that year, and 44.6% by 2035. Australia is moving in the right direction but not fast enough.
 - The transition is now driven by **solar and wind**, not hydro. Solar grew from ~0.1 TWh to ~48.6 TWh and wind from ~0.9 TWh to ~31.0 TWh between 2005 and 2024, while hydro stayed roughly flat.
 - **International comparison depends on the measure.** China generates the most renewable electricity by volume (~3,398 TWh) but Australia's renewable *share* (35.0%) slightly edged China's (33.7%) in 2024. New Zealand (85.5%) and Germany (54.5%) remain well ahead on share.
 
@@ -49,7 +49,7 @@ The dashboard answers four sub-questions:
 
 ## 🏗️ How It's Built
 
-**Data model — galaxy schema.** Two fact tables (`fact_RenewableGeneration`, `fact_TotalGeneration`) share three dimension tables (`dim_Country`, `dim_Year`, `dim_EnergySource`). A single fact table would have repeated total-generation values 5–6 times per country-year and caused overcounting if summed; the galaxy schema prevents that.
+**Data model: galaxy schema.** Two fact tables (`fact_RenewableGeneration`, `fact_TotalGeneration`) share three dimension tables (`dim_Country`, `dim_Year`, `dim_EnergySource`). A single fact table would have repeated total-generation values 5–6 times per country-year and caused overcounting if summed; the galaxy schema prevents that.
 
 **ETL.** Four national datasets with different formats, units, and source categories were cleaned and standardised in Power Query into five consistent renewable categories (solar, wind, hydro, biomass, geothermal). Every transformation is recorded in the [data decisions log](docs/data-decisions-log.md).
 
@@ -74,14 +74,14 @@ The dashboard answers four sub-questions:
 
 ## 📁 Repository Contents
 
-- `renewable-electricity-dashboard.pbix` — the Power BI file
-- `docs/full-report.md` — the full analytical report, readable on GitHub
-- `report/renewable-electricity-report.pdf` — the analytical report as a PDF (with all figures)
-- `docs/dax-measures.md` — all DAX measures with comments
-- `docs/r-forecast-code.R` — the R forecasting script
-- `docs/data-decisions-log.md` — full ETL and analytical decisions log
-- `data/` — the raw national datasets and cleaned model data
-- `images/` — the dashboard screenshot
+- `renewable-electricity-dashboard.pbix`: the Power BI file
+- `docs/full-report.md`: the full analytical report, readable on GitHub
+- `report/renewable-electricity-report.pdf`: the analytical report as a PDF (with all figures)
+- `docs/dax-measures.md`: all DAX measures with comments
+- `docs/r-forecast-code.R`: the R forecasting script
+- `docs/data-decisions-log.md`: full ETL and analytical decisions log
+- `data/`: the raw national datasets and cleaned model data
+- `images/`: the dashboard screenshot
 
 ---
 
@@ -105,4 +105,4 @@ The dashboard answers four sub-questions:
 
 ## 📫 Author
 
-**Waranyu (JO) Bancherdvanich** — [Portfolio](https://waranyu-cv.vercel.app) · [LinkedIn](https://www.linkedin.com/in/waranyu-ban) · [GitHub](https://github.com/jo-bancherdvanich)
+**Waranyu (JO) Bancherdvanich** · [Portfolio](https://waranyu-cv.vercel.app) · [LinkedIn](https://www.linkedin.com/in/waranyu-ban) · [GitHub](https://github.com/jo-bancherdvanich)
